@@ -8,4 +8,6 @@ Step to connect github project with stackblitz
     
     add stackblitz.com/ before github.com
     and change github.com/Hspharwinder into github/Hspharwinder
+    
+    or change //github.com/Hspharwinder/  - //stackblitz.com/github/Hspharwinder/
 3. your prject will be open in stackblitz
